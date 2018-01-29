@@ -1,0 +1,21 @@
+Using the Website Framework, note page you have, complete the following practice assignment:
+
+ 
+
+In a Level 1 Heading, type your full name
+add a break
+add a line
+add a break
+In a Level 2 Heading, type your grade level (Just number, don't spell it out)
+Write a paragraph about yourself. Anything about yourself. (5 sentences)
+Now you must:
+
+Bold all of the vowels that are in heading tags
+Cross out the fourth sentence in your paragraph
+comment on what everything is
+Add 'TH' in superscript after what grade you are in.
+Save this file as an HTML File and submit.
+
+
+Points
+10
